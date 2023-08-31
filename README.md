@@ -1,5 +1,7 @@
 # 10 Projects Machine Learning Specialization on Coursera 
 
+[Certification](https://drive.google.com/drive/folders/1s8mwnQBk7Hxfnr67NJ0bcy2zPtxqzK40?usp=sharing) 
+
 ## 1. Project predicting profits for a restaurant franchise  
 Linear regression
 
